@@ -1,0 +1,8 @@
+# Node modules
+# node_modules/
+
+# Environment variables
+.env
+
+# Other files and directories to ignore
+# dist/
